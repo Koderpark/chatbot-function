@@ -1,7 +1,6 @@
 <?php
     function kakao($text,$photo,$url,$input){
 
-
         $message = '{"message": {';
 
         if($text != NULL){    $message .= '"text": "'.$text.'"';    }
@@ -9,7 +8,6 @@
         if($url != NULL){    $message .= ',"message_button": {"label": "'.$url[0].'", "url": "'.$url[1].'"}';    }
 
         $message .= '}';
-
 
         if($input != NULL){
             $buttons = '"buttons" : [';
