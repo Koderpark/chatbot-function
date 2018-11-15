@@ -1,6 +1,7 @@
-# kakao-function
-helpful codes to make a kakaotalk chatbot
-> 2018년 11월 이후로 챗봇 api가 막힘에 따라 더이상 사용 불가능합니다.
+# chatbot-function
+helpful codes to make a chatbot
+> 2018년 11월 이후로 카카오톡 챗봇 api가 막힘에 따라 더이상 사용 불가능합니다.
+> 페이스북 메신저 챗봇은 그대로 사용 가능.
 
 ## chat.php
 >
