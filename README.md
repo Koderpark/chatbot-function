@@ -18,7 +18,7 @@ helpful codes to make a chatbot
 
 ### sender
 >
-> 페이스북 메신저에 메시지를 입력한 사람의 고유 id값입니다.
+> 페이스북 메신저에 메시지를 입력한 사람의 고유 id값입니다.  
 > 카카오톡 챗봇에서의 user_key와 비슷하나, kakao 함수에는 필요없는 인자입니다.
 > facebook 함수의 경우에는 필수로 입력해주셔야 합니다.
 >
