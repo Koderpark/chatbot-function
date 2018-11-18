@@ -7,7 +7,7 @@ helpful codes to make a chatbot
 >
 > 카카오톡 챗봇 응답을 편하게 할수있도록 제작한 함수입니다.
 > 원형은 kakao ($text , $photo , $url , $input)
->
+<!-- > -->
 
 ### text
 >
